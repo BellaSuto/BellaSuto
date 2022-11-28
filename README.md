@@ -13,8 +13,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/1/#inbox?compose=CllgCJvmZPQNFnrLQmTFLRptDRbzVLntNrSDzgCBrKPSKRThDhdtZMXWtwCQcjctSZxqHvKFpgB)
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1500&color=34F700&width=200&lines=Estudando:;+Learning:;)](https://git.io/typing-svg)
-
+###Tecnologias
 <div style="display:inline_block" ><br/>
   <img align="center"alt="html5"src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
 <img align="center"alt="html5"src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
