@@ -4,7 +4,7 @@
   
   <li>💻Estudante de Ciência da Computação | Computer Science Student</li>
 
-  <li>🚀Estagiária na GFT Technologies Brasil | Starter at GFT Technologies Brazil</li>
+  <li>🚀Estagiária na GFT Technologies Brasil | Trainee at GFT Technologies Brazil</li>
 </ul>
 <br>
 
