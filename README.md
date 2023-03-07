@@ -1,8 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&color=34F700&width=400&lines=👩🏽‍💻Olá%2C+me+chamo+Isabella+Suto;+Hi+there,+i'm+Isabella+Suto;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&color=34F700&width=400&lines=👩🏽‍💻Hi+there,+i'm+Isabella+Suto;)](https://git.io/typing-svg)
 
 <ul>
   
-  <li>💻Estudante de Ciência da Computação | Computer Science Student</li>
+  <li>💻Computer Science Student</li>
   
 </ul>
 <br>
@@ -11,7 +11,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/1/#inbox?compose=CllgCJvmZPQNFnrLQmTFLRptDRbzVLntNrSDzgCBrKPSKRThDhdtZMXWtwCQcjctSZxqHvKFpgB)
 
 
-### Tecnologias | Technologies
+### Technologies
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-gray?style=flat-square&logo=javascript)
