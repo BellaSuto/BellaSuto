@@ -1,14 +1,11 @@
-<img align="right" width="250" src="https://stemettes.org/zine/wp-content/uploads/sites/3/2021/08/magicalGirlAda_1_big.gif" title="Ada Lovelace"/>
+<img align="right" width="250" src="https://art.pixilart.com/sr2712ab0b35ecd.gif" title="Ada Lovelace"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&color=34F700&width=400&lines=👩🏽‍💻Hi+there,+i'm+Isabella+Suto;)](https://git.io/typing-svg)
-
-
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&color=FF00FF&width=400&lines=👩🏽‍💻Hi+there,+i'm+Isabella+Suto;👩🏽‍💻Oi,+me+chamo+Isabella+Suto;)](https://git.io/typing-svg)
 
 <ul>
   
 - 🎓Estudante de Ciência da Computação
-- 💼Estagiária Backend na GFT
+- 💼Desenvolvedora de Integração na GFT
 
 <br>
 <br>
