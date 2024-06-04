@@ -5,7 +5,7 @@
 <ul>
   
 - 🎓Estudante de Ciência da Computação
-- 💼Desenvolvedora de Integração na GFT
+- 💼Desenvolvedora Jr na GFT
 
 <br>
 <br>
